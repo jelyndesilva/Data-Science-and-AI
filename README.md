@@ -1,8 +1,11 @@
-# TITLE OF THE PROJECT
+# ADDRESSING FOOD LOSS ACROSS THE PHILIPPINE AGRICULTURE
 
 **A Course Requirement for the Subject Data Science and Artificial Intelligence**
 
-Submitted by: De Silva, Jelyn P.
+Submitted by: Almirol, John Loyd
+              Alviar, Irvin Ace
+              De Silva, Jelyn P.
+              Micua, Mark Olsen
 
 Submitted to: Labastilla, Aisa M.
 
